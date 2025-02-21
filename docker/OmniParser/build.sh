@@ -1,2 +1,2 @@
 #! /bin/bash
-docker build --network="host" -t jcgarciaca/OmniParser:latest .
+docker build --network="host" -t milleinnovacion/omniparser:latest .
